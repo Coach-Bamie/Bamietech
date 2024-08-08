@@ -1,0 +1,2 @@
+# Bamietech
+My personal repository
